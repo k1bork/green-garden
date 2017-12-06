@@ -4,7 +4,6 @@
     src: url(DISTGRG_.ttf)
 }
 body{
-    max-width: 50%;
     font-family: 'Fjalla One';
     text-align: center;
     display: flex;
@@ -24,4 +23,7 @@ header{
 }
 h3{
     letter-spacing: 2px;
+}
+p{
+    max-width: 800px;
 }
