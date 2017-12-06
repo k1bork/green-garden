@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@font-face{
+    font-family: JediFont;
+    src: url(DISTGRG_.ttf)
+}
+body{
+    max-width: 50%;
+    font-family: 'Fjalla One';
+    text-align: center;
+    display: flex;
+    align-items:column;
+    justify-content:center;
+    background-color: black;
+    color:yellow;
+}
+h2,h3,a{
+    color:white;
+}
+h1,h2,h3{
+    font-family: JediFont;
+}
+header{
+    background-color: black;
+}
+h3{
+    letter-spacing: 2px;
+}
